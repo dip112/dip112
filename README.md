@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipankar_roy
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning computer science and side by side machine learning
+- 🌱 I’m currently doing Master's in Computer Application and honing Machine Learning, Deep Learning and CP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
